@@ -25,8 +25,6 @@ It features a clean, responsive UI for an optimal user experience across devices
 
 📸 Screenshots
 <p align="center"> <img src="screenshots/home.png" alt="Home Screen" width="250"/> <img src="screenshots/result.png" alt="Result Screen" width="250"/> </p>
-Replace screenshots/home.png and screenshots/result.png with your actual screenshot paths.
-The width="250" keeps all screenshots the same size and neat.
 
 🛠️ Tech Stack
 Flutter – UI Framework
